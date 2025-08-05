@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://andreaslindstrom-ntm.github.io/anmalda-brott-eskilstuna-jan-10-juli-2025/
+- Leaflet Map https://eskilstuna-kuriren.github.io/anmalda-brott-eskilstuna-jan-10-juli-2025/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1NoeIKIggQUi_RzyXCHpfQRT-lW9jxoxKDgG5OTtRk-k/edit?gid=0#gid=0
 
 ## Create your own
